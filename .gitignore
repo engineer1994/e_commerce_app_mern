@@ -1,0 +1,13 @@
+# Node modules
+node_modules/
+e_commerce_app_client/node_modules/
+e_commerce_app_backend/node_modules/
+# Environment variables
+.env
+e_commerce_app_client/.env
+e_commerce_app_backend/.env
+# Build files (optional, if built)
+e_commerce_app_client/build/
+e_commerce_app_backend/dist/
+# Logs
+*.log
