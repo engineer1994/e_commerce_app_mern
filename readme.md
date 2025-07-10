@@ -71,14 +71,14 @@ REACT_APP_BACKEND_IP=ip_backend:8080 - Point to backend server
 In one terminal, start the backend:
 
 ```bash
-cd server
-npm run dev
+cd e_commerce_app_backend
+npm start
 ```
 
 In another terminal, start the frontend:
 
 ```bash
-cd client
+cd e_commerce_app_client
 npm start
 ```
 
@@ -94,7 +94,7 @@ By default:
 | Location | Command       | Description                |
 | -------- | ------------- | -------------------------- |
 | client/  | `npm start`   | Starts React app           |
-| server/  | `npm run dev` | Starts server with nodemon |
+| server/  | `npm start`   | Starts server app          |
 
 ---
 
