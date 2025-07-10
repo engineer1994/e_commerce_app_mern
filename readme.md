@@ -1,7 +1,7 @@
 
 # e_commerce MERN Stack App
 
-This is a full-stack MERN application with a React frontend and Node.js/Express backend. MongoDB Atlas is used for the database, and the app is structured as a monorepo.  This app is for learning purpose.
+This is an e_commerce full-stack MERN application with a React frontend and Node.js/Express backend. MongoDB Atlas is used for the database, and the app is structured as a monorepo.  This app is for learning purpose.
 
 ---
 
@@ -26,8 +26,8 @@ Each folder (`client` and `backend`) contains its own README and `package.json`.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/mern-app.git
-cd mern-app
+git clone https://github.com/engineer1994/e_commerce_app_mern/
+cd e_commerce_app_mern
 ````
 
 ### 2. Install Dependencies
